@@ -1,5 +1,5 @@
 body {
-  background-image: url(./media/background7.2801e98404b28f455712.jpg);
+  background-image: url(../css/media/background7.2801e98404b28f455712.jpg);
   background-size: contain;
 }
 .mainTitle {
@@ -89,7 +89,7 @@ body {
   transform: rotateY(180deg);
 }
 #detras {
-  background-image: url(./media/background5.0a573269d50dc6e93e2b.jpg);
+  background-image: url(../css/media/background5.0a573269d50dc6e93e2b.jpg);
   background-size: contain;
   height: 400px;
   width: 300px;
